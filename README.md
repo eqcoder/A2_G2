@@ -23,6 +23,6 @@
   $ java ensemble.java artd-31.csv
   ```
 ## Dataset
-  + data_1~4.csv
-  + From here (https://cs.joensuu.fi/sipu/datasets/)
+  + sample data : artd-31.csv artset1.csv
+  + data_1~4.csv are from here (https://cs.joensuu.fi/sipu/datasets/)
   
