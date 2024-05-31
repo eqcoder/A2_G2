@@ -274,6 +274,6 @@ public class A2_G2_t1 {
 
         final long elapsed = endTime - startTime;
         // System.out.println("time : " + (double) elapsed / 1000 + " seconds");
-        fileOut(centroids);
+        // fileOut(centroids);
     }
 }
